@@ -1,8 +1,4 @@
-Based on the provided Python script, I can help you draft a README file for your project. A README file typically provides an overview of your project, how to set it up, and how to use it. Here's a suggested README content based on the script you shared:
-
----
-
-# Langchain Demo with OpenAI API
+# Langchain with OpenAI API
 
 This project demonstrates how to integrate the Langchain and OpenAI APIs to create a conversational assistant using Streamlit.
 
