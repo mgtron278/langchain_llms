@@ -1,4 +1,4 @@
-# Langchain with OpenAI API
+# Langchain with OpenAI API - Surya Guttikonda
 
 This project demonstrates how to integrate the Langchain and OpenAI APIs to create a conversational assistant using Streamlit.
 
